@@ -11,6 +11,7 @@ params:
     rgb_color: "rgb(255, 255, 255)"
     hsl_color: "hsl(0, 0%, 100%)"
     pixel_size: "16px"
+    number: "10"
     sum: "calc(12px + 18px)"
 
   #languages:

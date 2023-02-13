@@ -5,6 +5,7 @@
   @debug meta.type-of($rgb_color);
   @debug meta.type-of($hsl_color);
   @debug meta.type-of($pixel_size);
+  @debug meta.type-of($number);
 
 body {
   width: calc($pixel_size + $pixel_size);

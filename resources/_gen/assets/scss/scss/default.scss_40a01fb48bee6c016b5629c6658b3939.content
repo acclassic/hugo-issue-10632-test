@@ -1,0 +1,4 @@
+body {
+  width: calc(16px + 16px);
+  background: rgb(255, 255, 255);
+}
