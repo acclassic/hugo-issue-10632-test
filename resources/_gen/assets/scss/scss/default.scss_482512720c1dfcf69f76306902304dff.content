@@ -1,0 +1,7 @@
+body {
+  background: #b3ffee !important;
+}
+
+h1 {
+  font-size: 24px !important;
+}

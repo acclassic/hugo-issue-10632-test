@@ -1,0 +1,21 @@
+@use "sass:meta";
+@import "hugo:vars";
+
+  @debug meta.type-of($hex_color);
+  @debug meta.type-of($rgb_color);
+  @debug meta.type-of($hsl_color);
+  @debug meta.type-of($pixel_size);
+
+body {
+  width: calc($pixel_size + $pixel_size);
+  background: $rgb_color;
+  //background: darken($hex_color, 50%);
+}
+
+#div1 {
+  //background: darken($rgb_color, 50%);
+}
+
+#div2 {
+  //background: darken($hsl_color, 50%);
+}

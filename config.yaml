@@ -1,0 +1,27 @@
+baseUrl: http://example.org/
+languageCode: en-us
+title: Hugo Test site
+theme: PaperMod
+defaultContentLanguage: en
+timeout: "30m"
+params:
+  terms: [a]
+  style:
+    hex_color: "#ffffff"
+    rgb_color: "rgb(255, 255, 255)"
+    hsl_color: "hsl(0, 0%, 100%)"
+    pixel_size: "16px"
+    sum: "calc(12px + 18px)"
+
+  #languages:
+  #  en:
+  #    baseUrl: http://example.org/
+  #    languageName: English
+  #    title: EN Site
+  #    weight: 1
+  #
+  #  de:
+  #    baseUrl: http://example.de
+  #    languageName: Deutsch
+  #    title: Detusche Seite 
+  #    weight: 2

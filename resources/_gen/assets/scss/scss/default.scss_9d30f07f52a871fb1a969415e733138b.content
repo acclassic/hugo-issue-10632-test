@@ -1,0 +1,9 @@
+body {
+  background: #b3ffee !important;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px !important;
+  color: #f00 !important;
+}
